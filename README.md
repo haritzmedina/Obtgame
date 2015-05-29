@@ -1,0 +1,1 @@
+An web browser game based on ogame.com.es, based on ugamela source code and translated to spanish.
